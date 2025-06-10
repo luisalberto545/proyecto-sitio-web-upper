@@ -62,14 +62,13 @@ nav ul {
     margin: 10px;      
     font-size: 30px;
     max-width: 100%;
-
 }
 
 nav ul li a{
     display: inline-block;
     margin-right: 2rem;
     text-decoration: none;
-    color: #000;
+    color: #000;   
 }
     
 
@@ -79,8 +78,6 @@ nav ul li a{
     width: auto;
     max-width: 100%;
 }
-
-   
 
 
 .Slider1 {
@@ -98,7 +95,6 @@ nav ul li a{
 }
 
 
-
 .portafolio {
     text-align: center;
     background-color: rgb(95, 95, 95);
@@ -112,7 +108,6 @@ h1 {
     display: inline-block;
 }
     
-
 
 .servicios {
     display: inline-flexbox;
@@ -432,4 +427,10 @@ font-size: x-large;
 
 .video{
     text-align: center;
+}
+
+.iframemap{
+display: flex;
+align-items: center;
+justify-content: center;
 }
